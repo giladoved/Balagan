@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<AbsoluteLayout android:layout_width="fill_parent"
+		android:layout_height="200dp">
+
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button3" android:text="א" android:layout_height="50dp" android:layout_x="427dip" android:layout_y="140dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button19" android:text="א" android:layout_height="50dp" android:layout_x="9dip" android:layout_y="141dip"></Button>
+
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button15" android:text="א" android:layout_height="50dp" android:layout_x="384dip" android:layout_y="88dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button4" android:text="ט" android:layout_height="50dp" android:layout_x="428dip" android:layout_y="50dip"></Button>
+
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button17" android:text="ק" android:layout_height="50dp" android:layout_x="337dip" android:layout_y="46dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button22" android:text="ר" android:layout_height="50dp" android:layout_x="294dip" android:layout_y="9dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button10" android:text="ר" android:layout_height="50dp" android:layout_x="343dip" android:layout_y="140dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button12" android:text="ט" android:layout_height="50dp" android:layout_x="296dip" android:layout_y="87dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button7" android:text="ם" android:layout_height="50dp" android:layout_x="248dip" android:layout_y="53dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button13" android:text="ק" android:layout_height="50dp" android:layout_x="258dip" android:layout_y="141dip"></Button>
+
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button8" android:text="פ" android:layout_height="50dp" android:layout_x="207dip" android:layout_y="98dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button21" android:text="ק" android:layout_height="50dp" android:layout_x="162dip" android:layout_y="55dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button20" android:text="ט" android:layout_height="50dp" android:layout_x="123dip" android:layout_y="8dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button1" android:text="ק" android:layout_height="50dp" android:layout_x="163dip" android:layout_y="142dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button9" android:text="ק" android:layout_height="50dp" android:layout_x="118dip" android:layout_y="91dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button14" android:text="ר" android:layout_height="50dp" android:layout_x="81dip" android:layout_y="47dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button2" android:text="ר" android:layout_height="50dp" android:layout_x="40dip" android:layout_y="5dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button5" android:text="ו" android:layout_height="50dp" android:layout_x="93dip" android:layout_y="142dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button6" android:text="ן" android:layout_height="50dp" android:layout_x="7dip" android:layout_y="61dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button11" android:text="א" android:layout_height="50dp" android:layout_x="55dip" android:layout_y="96dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button16" android:text="ט" android:layout_height="50dp" android:layout_x="203dip" android:layout_y="8dip"></Button>
+<Button android:textSize="15sp" android:layout_width="45dp" android:id="@+id/Button18" android:text="ר" android:layout_height="50dp" android:layout_x="383dip" android:layout_y="7dip"></Button>
+</AbsoluteLayout>
+
+	<TextView android:layout_width="fill_parent" android:id="@+id/lblList"
+		android:text="_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+		android:textSize="32sp" android:padding="10dip" android:gravity="bottom|center"
+		android:layout_height="wrap_content" />
+
+</LinearLayout>
+
